@@ -3,5 +3,5 @@
 - 👀 I’m interested in Cybersecurity & Development
 - 🌱 I’m learning Advanced Security Concepts
 - 💻 Working on Honeypot Projects
-- 📫 Email: yourmail@gmail.com
+- 📫 Email: koushikjsheregar@gmail.com
 - 😄 He/Him
